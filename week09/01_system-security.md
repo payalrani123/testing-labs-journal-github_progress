@@ -13,12 +13,17 @@ Run:
 ### Questions
 
 1.  How many users exist on the system?
-2.  Which accounts appear to be system accounts?
-3.  Why do operating systems create system accounts?
+2.  just 1.
+3.  Which accounts appear to be system accounts?
+4.  team 1.
+5.  Why do operating systems create system accounts?
+6.  to manage security, isolate processes, and enforce strict access controls.
+7.  
 
 ### Reflection
 
 Explain why understanding system users is important for cybersecurity.
+because human error and social engineering are the leading causes of data breaches.
 
 ------------------------------------------------------------------------
 
