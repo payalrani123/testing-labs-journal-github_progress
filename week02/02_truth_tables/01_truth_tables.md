@@ -34,7 +34,7 @@
 
 **Truth Tables:**
 
-**Table A**
+**Table A**= $A \oplus B$ (XOR)
 
 | A | B | Output |
 |---|---|--------|
@@ -43,7 +43,7 @@
 | 1 | 0 |   1    |
 | 1 | 1 |   0    |
 
-**Table B**
+**Table B**= AxB
 
 | A | B | Output |
 |---|---|--------|
@@ -52,7 +52,7 @@
 | 1 | 0 |   0    |
 | 1 | 1 |   1    |
 
-**Table C**
+**Table C**= A+B
 
 | A | B | Output |
 |---|---|--------|
@@ -61,7 +61,7 @@
 | 1 | 0 |   1    |
 | 1 | 1 |   1    |
 
-**Table D**
+**Table D**= $\neg A$
 
 | A | Output |
 |---|--------|
